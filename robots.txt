@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mftira.github.io/tech-job-market-data/sitemap.xml
