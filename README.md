@@ -1,6 +1,8 @@
 # Tech job market data, updated weekly
 
 Weekly salary and hiring statistics for five tech job markets, computed from fresh job ads collected by TechPayRadar.
+🌐 **Website with the latest jobs and every report: https://mftira.github.io/tech-job-market-data/**
+
 Each week adds one JSON file per market in [`data/`](data/) (job count, salary coverage, median and quartiles of yearly salary, top hiring companies, most-wanted skills).
 
 | Market | Week | New jobs | Show salary | Median yearly salary | Live job feed | Raw job data |
