@@ -1,0 +1,84 @@
+{
+  "niche": "swiss-it",
+  "week": "2026-W45",
+  "days": 7,
+  "jobs": 121,
+  "withSalary": 77,
+  "salaryShare": 64,
+  "currency": "CHF",
+  "median": 97464,
+  "p25": 92000,
+  "p75": 105000,
+  "remoteShare": 0,
+  "topCompanies": [
+    [
+      "Rocken®",
+      39
+    ],
+    [
+      "Prime21",
+      9
+    ],
+    [
+      "Consult & Pepper AG",
+      8
+    ],
+    [
+      "ti&m AG",
+      3
+    ],
+    [
+      "yellowshark",
+      3
+    ]
+  ],
+  "topSkills": [
+    [
+      "Cloud",
+      16
+    ],
+    [
+      "DevOps",
+      13
+    ],
+    [
+      "Security",
+      11
+    ],
+    [
+      "Java",
+      9
+    ],
+    [
+      "Data",
+      7
+    ],
+    [
+      "Azure",
+      6
+    ]
+  ],
+  "topPaid": [
+    {
+      "title": "Ingénieur(e) plateformes de cybersécurité - MCO détection et réponse",
+      "company": "MGI Consultants SA",
+      "min": 135000,
+      "max": 175000,
+      "url": "https://www.jobup.ch/en/jobs/detail/46b0d2e8-ed45-4203-a5cf-a9991ff4bb24/"
+    },
+    {
+      "title": "Leiterin / Leiter Entwicklung Industrial & Scientific Software",
+      "company": "Helbling Technik AG",
+      "min": 120389,
+      "max": 160389,
+      "url": "https://www.jobs.ch/en/vacancies/detail/12c27c8a-c590-4697-b745-3040e088f001/"
+    },
+    {
+      "title": "Administrateur.ice de bases de données senior — Oracle (H/F)",
+      "company": "SpeciTec SA",
+      "min": 120000,
+      "max": 160000,
+      "url": "https://www.jobup.ch/en/jobs/detail/04918240-a05a-4c05-a17e-5a2cad278b71/"
+    }
+  ]
+}

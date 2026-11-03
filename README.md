@@ -7,9 +7,10 @@ Each week adds one JSON file per market in [`data/`](data/) (job count, salary c
 
 | Market | Week | New jobs | Show salary | Median yearly salary | Live job feed | Raw job data |
 |---|---|---|---|---|---|---|
+| Swiss IT Jobs with Salary | 2026-W45 | 121 | 64% | CHF 97k | [Telegram](https://t.me/techpayradar_swiss) | [Swiss Jobs Scraper (jobs.ch + jobup.ch)](https://apify.com/mftira/swiss-jobs-scraper?utm_source=jobradar&utm_medium=github) |
 
-
-
+### Swiss IT Jobs with Salary
+![Swiss IT Jobs with Salary](images/swiss-it-2026-W45.png)
 
 ## Want the raw job ads?
 The numbers above come from these scrapers on the Apify Store (pay per result, no subscription):
