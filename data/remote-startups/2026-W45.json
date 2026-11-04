@@ -1,0 +1,72 @@
+{
+  "niche": "remote-startups",
+  "week": "2026-W45",
+  "days": 7,
+  "jobs": 17,
+  "withSalary": 17,
+  "salaryShare": 100,
+  "currency": "USD",
+  "median": 140000,
+  "p25": 125000,
+  "p75": 160000,
+  "remoteShare": 100,
+  "topCompanies": [
+    [
+      "Recidiviz",
+      3
+    ],
+    [
+      "Jerry.ai",
+      2
+    ],
+    [
+      "Fuze",
+      1
+    ],
+    [
+      "PermitFlow",
+      1
+    ],
+    [
+      "Dracoe",
+      1
+    ]
+  ],
+  "topSkills": [
+    [
+      "Product",
+      7
+    ],
+    [
+      "Data",
+      3
+    ],
+    [
+      "Backend",
+      1
+    ]
+  ],
+  "topPaid": [
+    {
+      "title": "Staff Software Engineer",
+      "company": "PermitFlow",
+      "min": 200000,
+      "max": 275000,
+      "url": "https://wellfound.com/jobs/2899342-staff-software-engineer"
+    },
+    {
+      "title": "Backend Engineer, Video Streaming",
+      "company": "LiveReach AI",
+      "min": 200000,
+      "max": 250000,
+      "url": "https://wellfound.com/jobs/2828839-backend-engineer-video-streaming"
+    },
+    {
+      "title": "Senior Product Designer",
+      "company": "Calm",
+      "min": 168000,
+      "max": 245000,
+      "url": "https://wellfound.com/jobs/4940494-senior-product-designer"
+    }
+  ]
+}
