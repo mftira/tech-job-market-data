@@ -1,0 +1,84 @@
+{
+  "niche": "france",
+  "week": "2026-W45",
+  "days": 7,
+  "jobs": 359,
+  "withSalary": 359,
+  "salaryShare": 100,
+  "currency": "EUR",
+  "median": 45000,
+  "p25": 40000,
+  "p75": 50000,
+  "remoteShare": 49,
+  "topCompanies": [
+    [
+      "Groupe SII",
+      16
+    ],
+    [
+      "Klanik",
+      13
+    ],
+    [
+      "aivancity",
+      11
+    ],
+    [
+      "Seyos",
+      9
+    ],
+    [
+      "Michael Page",
+      9
+    ]
+  ],
+  "topSkills": [
+    [
+      "Data",
+      67
+    ],
+    [
+      "DevOps",
+      60
+    ],
+    [
+      "Full-stack",
+      34
+    ],
+    [
+      "Java",
+      23
+    ],
+    [
+      ".NET",
+      22
+    ],
+    [
+      "Cloud",
+      9
+    ]
+  ],
+  "topPaid": [
+    {
+      "title": "Ingénieur Senior Azure Cloudops - DevOps H/F",
+      "company": "Econocom",
+      "min": 110000,
+      "max": 121000,
+      "url": "https://www.hellowork.com/fr-fr/emplois/85138802.html"
+    },
+    {
+      "title": "Analyste Développeur COBOL Confirmé H/F",
+      "company": "Celad",
+      "min": 99000,
+      "max": 110000,
+      "url": "https://www.hellowork.com/fr-fr/emplois/85089047.html"
+    },
+    {
+      "title": "Architecte Mécanique H/F",
+      "company": "Innova Solutions",
+      "min": 88000,
+      "max": 110000,
+      "url": "https://www.hellowork.com/fr-fr/emplois/85180178.html"
+    }
+  ]
+}
