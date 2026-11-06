@@ -1,0 +1,84 @@
+{
+  "niche": "germany",
+  "week": "2026-W45",
+  "days": 7,
+  "jobs": 374,
+  "withSalary": 374,
+  "salaryShare": 100,
+  "currency": "EUR",
+  "median": 63500,
+  "p25": 56500,
+  "p75": 71500,
+  "remoteShare": 90,
+  "topCompanies": [
+    [
+      "Quantum-Systems GmbH",
+      10
+    ],
+    [
+      "Infomotion GmbH",
+      7
+    ],
+    [
+      "SCHUFA Holding AG",
+      6
+    ],
+    [
+      "Schwarz Digits",
+      6
+    ],
+    [
+      "S&N Group AG",
+      6
+    ]
+  ],
+  "topSkills": [
+    [
+      "Data",
+      51
+    ],
+    [
+      "DevOps",
+      42
+    ],
+    [
+      "Cloud",
+      31
+    ],
+    [
+      "ML / AI",
+      24
+    ],
+    [
+      "SAP",
+      16
+    ],
+    [
+      "Full-stack",
+      12
+    ]
+  ],
+  "topPaid": [
+    {
+      "title": "Senior AI / ML Engineer (w/m/d)",
+      "company": "Cofinpro AG",
+      "min": 80000,
+      "max": 120000,
+      "url": "https://www.stepstone.de/stellenangebote--Senior-AI-ML-Engineer-w-m-d-Frankfurt-am-Main-Cofinpro-AG--13993214-inline.html"
+    },
+    {
+      "title": "Engineering Manager - Developer Tools - STACKIT (m/w/d)",
+      "company": "Schwarz Digits",
+      "min": 80000,
+      "max": 118000,
+      "url": "https://www.stepstone.de/stellenangebote--Engineering-Manager-Developer-Tools-STACKIT-m-w-d-Bad-Friedrichshall-Schwarz-Digits--14564327-inline.html"
+    },
+    {
+      "title": "Senior Big Data Architect Public Sector (m/w/d)",
+      "company": "Sopra Steria",
+      "min": 85000,
+      "max": 115000,
+      "url": "https://www.stepstone.de/stellenangebote--Senior-Big-Data-Architect-Public-Sector-m-w-d-bundesweit-Berlin-Frankfurt-Hamburg-Koeln-Leipzig-Muenchen-Sopra-Steria--13516675-inline.html"
+    }
+  ]
+}
