@@ -1,0 +1,84 @@
+{
+  "niche": "visa-us",
+  "week": "2026-W46",
+  "days": 7,
+  "jobs": 341,
+  "withSalary": 120,
+  "salaryShare": 35,
+  "currency": "USD",
+  "median": 130000,
+  "p25": 110000,
+  "p75": 157040,
+  "remoteShare": 28,
+  "topCompanies": [
+    [
+      "TechniPros, LLC",
+      27
+    ],
+    [
+      "QUANTUM TECHNOLOGIES LLC",
+      21
+    ],
+    [
+      "Trebecon LLC",
+      12
+    ],
+    [
+      "Photon",
+      9
+    ],
+    [
+      "Keylent",
+      9
+    ]
+  ],
+  "topSkills": [
+    [
+      "Java",
+      71
+    ],
+    [
+      "Data",
+      52
+    ],
+    [
+      "ML / AI",
+      39
+    ],
+    [
+      "Full-stack",
+      37
+    ],
+    [
+      ".NET",
+      23
+    ],
+    [
+      "DevOps",
+      19
+    ]
+  ],
+  "topPaid": [
+    {
+      "title": "Gen AI Architect (Python)",
+      "company": "ITBMS Inc.",
+      "min": 312000,
+      "max": 312000,
+      "url": "https://www.dice.com/job-detail/22f88cd1-038c-4db1-bc2f-60a46fef6a56"
+    },
+    {
+      "title": "Senior Java Application Developer — Java EE / Postgres / AWS",
+      "company": "Genome International Corp",
+      "min": 193440,
+      "max": 208000,
+      "url": "https://www.dice.com/job-detail/eec5f01b-a775-4d5b-9bbc-0a79a0ba0978"
+    },
+    {
+      "title": "Senior Python Developer",
+      "company": "QUANTUM TECHNOLOGIES LLC",
+      "min": 197600,
+      "max": 203840,
+      "url": "https://www.dice.com/job-detail/1af0a35f-e1f5-40f6-9a2a-ebfef8e5f628"
+    }
+  ]
+}
