@@ -1,0 +1,84 @@
+{
+  "niche": "swiss-it",
+  "week": "2026-W46",
+  "days": 7,
+  "jobs": 317,
+  "withSalary": 169,
+  "salaryShare": 53,
+  "currency": "CHF",
+  "median": 102500,
+  "p25": 95000,
+  "p75": 115000,
+  "remoteShare": 0,
+  "topCompanies": [
+    [
+      "Rocken®",
+      108
+    ],
+    [
+      "yellowshark",
+      10
+    ],
+    [
+      "Brack.Alltron AG",
+      8
+    ],
+    [
+      "ITech Consult AG",
+      7
+    ],
+    [
+      "Swisslinx AG",
+      4
+    ]
+  ],
+  "topSkills": [
+    [
+      "Cloud",
+      40
+    ],
+    [
+      "Data",
+      22
+    ],
+    [
+      "Security",
+      21
+    ],
+    [
+      "Azure",
+      20
+    ],
+    [
+      "DevOps",
+      16
+    ],
+    [
+      "Java",
+      15
+    ]
+  ],
+  "topPaid": [
+    {
+      "title": "Medical Information Manager",
+      "company": "Swisslinx AG",
+      "min": 125500,
+      "max": 165500,
+      "url": "https://www.jobs.ch/en/vacancies/detail/477c8d2f-7ecb-48c4-8cff-1a400c9d2a14/"
+    },
+    {
+      "title": "IT Data Engineer",
+      "company": "Swisslinx AG",
+      "min": 125000,
+      "max": 165000,
+      "url": "https://www.jobs.ch/en/vacancies/detail/41fad0de-1857-41c6-9284-81085ea812b7/"
+    },
+    {
+      "title": "Senior IT Solution Architect - Payments (m/w/d)",
+      "company": "Rocken®",
+      "min": 121125,
+      "max": 161125,
+      "url": "https://www.jobs.ch/en/vacancies/detail/ef73df28-55c0-4c77-857c-5cc7a0d8e19b/"
+    }
+  ]
+}
