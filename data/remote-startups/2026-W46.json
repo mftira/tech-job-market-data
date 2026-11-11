@@ -1,0 +1,84 @@
+{
+  "niche": "remote-startups",
+  "week": "2026-W46",
+  "days": 7,
+  "jobs": 29,
+  "withSalary": 29,
+  "salaryShare": 100,
+  "currency": "USD",
+  "median": 146250,
+  "p25": 85000,
+  "p75": 185000,
+  "remoteShare": 100,
+  "topCompanies": [
+    [
+      "Ashby",
+      3
+    ],
+    [
+      "Constructor.io",
+      3
+    ],
+    [
+      "Juniper Square",
+      2
+    ],
+    [
+      "Swoop Technologies",
+      2
+    ],
+    [
+      "Keebo",
+      2
+    ]
+  ],
+  "topSkills": [
+    [
+      "Product",
+      10
+    ],
+    [
+      "Data",
+      4
+    ],
+    [
+      "Full-stack",
+      3
+    ],
+    [
+      "DevOps",
+      3
+    ],
+    [
+      "Backend",
+      3
+    ],
+    [
+      "PHP",
+      1
+    ]
+  ],
+  "topPaid": [
+    {
+      "title": "Staff Product Manager",
+      "company": "Ashby",
+      "min": 220000,
+      "max": 280000,
+      "url": "https://wellfound.com/jobs/4875221-staff-product-manager"
+    },
+    {
+      "title": "Product Manager - New Vertical (ex-founder or ex-private equity)",
+      "company": "Kovo",
+      "min": 180000,
+      "max": 270000,
+      "url": "https://wellfound.com/jobs/4967205-product-manager-new-vertical-ex-founder-or-ex-private-equity"
+    },
+    {
+      "title": "Founding Software Engineer",
+      "company": "CiceroAI",
+      "min": 170000,
+      "max": 250000,
+      "url": "https://wellfound.com/jobs/4970254-founding-software-engineer"
+    }
+  ]
+}
