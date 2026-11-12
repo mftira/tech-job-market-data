@@ -10,7 +10,7 @@ Each week adds one JSON file per market in [`data/`](data/) (job count, salary c
 | US Tech Jobs with Visa Sponsorship | 2026-W46 | 341 | 35% | $130k | [Telegram](https://t.me/techpayradar_visa) | [Dice Jobs Scraper](https://apify.com/mftira/dice-jobs-scraper?utm_source=jobradar&utm_medium=github) |
 | Remote Startup Jobs with Salary | 2026-W46 | 29 | 100% | $146k | [Telegram](https://t.me/techpayradar_remote) | [Wellfound Jobs Scraper](https://apify.com/mftira/wellfound-jobs-scraper?utm_source=jobradar&utm_medium=github) |
 | Swiss IT Jobs with Salary | 2026-W46 | 317 | 53% | CHF 103k | [Telegram](https://t.me/techpayradar_swiss) | [Swiss Jobs Scraper (jobs.ch + jobup.ch)](https://apify.com/mftira/swiss-jobs-scraper?utm_source=jobradar&utm_medium=github) |
-| Emplois tech en France avec salaire | 2026-W45 | 359 | 100% | €45k | [Telegram](https://t.me/techpayradar_france) | [HelloWork Jobs Scraper](https://apify.com/mftira/hellowork-jobs-scraper?utm_source=jobradar&utm_medium=github) |
+| Emplois tech en France avec salaire | 2026-W46 | 734 | 100% | €45k | [Telegram](https://t.me/techpayradar_france) | [HelloWork Jobs Scraper](https://apify.com/mftira/hellowork-jobs-scraper?utm_source=jobradar&utm_medium=github) |
 | Tech Jobs in Germany with Salary | 2026-W45 | 374 | 100% | €64k | [Telegram](https://t.me/techpayradar_germany) | [StepStone Jobs Scraper](https://apify.com/mftira/stepstone-jobs-scraper?utm_source=jobradar&utm_medium=github) |
 
 ### US Tech Jobs with Visa Sponsorship
@@ -23,7 +23,7 @@ Each week adds one JSON file per market in [`data/`](data/) (job count, salary c
 ![Swiss IT Jobs with Salary](images/swiss-it-2026-W46.png)
 
 ### Emplois tech en France avec salaire
-![Emplois tech en France avec salaire](images/france-2026-W45.png)
+![Emplois tech en France avec salaire](images/france-2026-W46.png)
 
 ### Tech Jobs in Germany with Salary
 ![Tech Jobs in Germany with Salary](images/germany-2026-W45.png)

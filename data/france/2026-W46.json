@@ -1,0 +1,84 @@
+{
+  "niche": "france",
+  "week": "2026-W46",
+  "days": 7,
+  "jobs": 734,
+  "withSalary": 734,
+  "salaryShare": 100,
+  "currency": "EUR",
+  "median": 45000,
+  "p25": 38500,
+  "p75": 50925,
+  "remoteShare": 48,
+  "topCompanies": [
+    [
+      "Externatic",
+      30
+    ],
+    [
+      "Extia",
+      28
+    ],
+    [
+      "Celad",
+      22
+    ],
+    [
+      "Groupe SII",
+      16
+    ],
+    [
+      "Collective Works",
+      13
+    ]
+  ],
+  "topSkills": [
+    [
+      "Data",
+      135
+    ],
+    [
+      "DevOps",
+      121
+    ],
+    [
+      "Java",
+      70
+    ],
+    [
+      "Full-stack",
+      61
+    ],
+    [
+      ".NET",
+      38
+    ],
+    [
+      "Angular",
+      30
+    ]
+  ],
+  "topPaid": [
+    {
+      "title": "Chef de Projet Cybersécurité - Levallois Perret H/F",
+      "company": "Artemys",
+      "min": 132000,
+      "max": 154000,
+      "url": "https://www.hellowork.com/fr-fr/emplois/85391893.html"
+    },
+    {
+      "title": "Développeur Sas - Altair - Finance - Bordeaux H/F",
+      "company": "Talents Digital",
+      "min": 96000,
+      "max": 124872,
+      "url": "https://www.hellowork.com/fr-fr/emplois/84332056.html"
+    },
+    {
+      "title": "Ingénieur DevOps H/F",
+      "company": "Hays",
+      "min": 94600,
+      "max": 121000,
+      "url": "https://www.hellowork.com/fr-fr/emplois/85232436.html"
+    }
+  ]
+}
