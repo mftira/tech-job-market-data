@@ -1,0 +1,84 @@
+{
+  "niche": "germany",
+  "week": "2026-W46",
+  "days": 7,
+  "jobs": 567,
+  "withSalary": 567,
+  "salaryShare": 100,
+  "currency": "EUR",
+  "median": 62500,
+  "p25": 55250,
+  "p75": 70000,
+  "remoteShare": 100,
+  "topCompanies": [
+    [
+      "adesso SE",
+      30
+    ],
+    [
+      "Rosenxt Group",
+      6
+    ],
+    [
+      "50Hertz Transmission GmbH",
+      5
+    ],
+    [
+      "CHECK24",
+      5
+    ],
+    [
+      "adesso business consulting AG",
+      5
+    ]
+  ],
+  "topSkills": [
+    [
+      "Data",
+      75
+    ],
+    [
+      "DevOps",
+      52
+    ],
+    [
+      "ML / AI",
+      47
+    ],
+    [
+      "Cloud",
+      44
+    ],
+    [
+      "Full-stack",
+      24
+    ],
+    [
+      "SAP",
+      19
+    ]
+  ],
+  "topPaid": [
+    {
+      "title": "Lead Enterprise Architect / Managing Consultant (m/w/d) - HR-Digitalisierung (ServiceNow & HCM/Payroll Transformation)",
+      "company": "Galahad SNR GmbH",
+      "min": 100000,
+      "max": 130000,
+      "url": "https://www.stepstone.de/stellenangebote--Lead-Enterprise-Architect-Managing-Consultant-m-w-d-HR-Digitalisierung-ServiceNow-HCM-Payroll-Transformation-bundesweit-Galahad-SNR-GmbH--14123118-inline.html"
+    },
+    {
+      "title": "Software Architect AI Solutions (m/w/d) - Hybrid",
+      "company": "Randstad Digital Germany AG",
+      "min": 90000,
+      "max": 120000,
+      "url": "https://www.stepstone.de/stellenangebote--Software-Architect-AI-Solutions-m-w-d-Hybrid-Duesseldorf-Eschborn-Hamburg-Muenchen-Nuernberg-Stuttgart-Randstad-Digital-Germany-AG--14102504-inline.html"
+    },
+    {
+      "title": "Fachgebietsleitung Market Sourcing and System Planning (w/m/d)",
+      "company": "50Hertz Transmission GmbH",
+      "min": 85000,
+      "max": 110000,
+      "url": "https://www.stepstone.de/stellenangebote--Fachgebietsleitung-Market-Sourcing-and-System-Planning-w-m-d-Berlin-50Hertz-Transmission-GmbH--14731010-inline.html"
+    }
+  ]
+}
