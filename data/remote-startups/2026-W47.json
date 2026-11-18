@@ -1,0 +1,84 @@
+{
+  "niche": "remote-startups",
+  "week": "2026-W47",
+  "days": 7,
+  "jobs": 48,
+  "withSalary": 48,
+  "salaryShare": 100,
+  "currency": "USD",
+  "median": 161250,
+  "p25": 115000,
+  "p75": 211250,
+  "remoteShare": 100,
+  "topCompanies": [
+    [
+      "EdgeQ Technologies",
+      5
+    ],
+    [
+      "Yara",
+      5
+    ],
+    [
+      "Constructor.io",
+      3
+    ],
+    [
+      "Prachub",
+      3
+    ],
+    [
+      "Flox",
+      3
+    ]
+  ],
+  "topSkills": [
+    [
+      "Product",
+      15
+    ],
+    [
+      "Data",
+      6
+    ],
+    [
+      "Full-stack",
+      5
+    ],
+    [
+      "Backend",
+      4
+    ],
+    [
+      "DevOps",
+      3
+    ],
+    [
+      "ML / AI",
+      2
+    ]
+  ],
+  "topPaid": [
+    {
+      "title": "Principal/Staff Product Manager, Platform",
+      "company": "Fieldguide",
+      "min": 225000,
+      "max": 315000,
+      "url": "https://wellfound.com/jobs/5067554-principal-staff-product-manager-platform"
+    },
+    {
+      "title": "Principal/Staff Product Manager, Risk Advisory",
+      "company": "Fieldguide",
+      "min": 225000,
+      "max": 315000,
+      "url": "https://wellfound.com/jobs/5067555-principal-staff-product-manager-risk-advisory"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "Yara",
+      "min": 235000,
+      "max": 315000,
+      "url": "https://wellfound.com/jobs/5085685-ai-engineer"
+    }
+  ]
+}
