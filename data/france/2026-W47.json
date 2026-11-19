@@ -1,0 +1,84 @@
+{
+  "niche": "france",
+  "week": "2026-W47",
+  "days": 7,
+  "jobs": 717,
+  "withSalary": 717,
+  "salaryShare": 100,
+  "currency": "EUR",
+  "median": 45000,
+  "p25": 40000,
+  "p75": 52500,
+  "remoteShare": 53,
+  "topCompanies": [
+    [
+      "Klanik",
+      27
+    ],
+    [
+      "Externatic",
+      18
+    ],
+    [
+      "Extia",
+      16
+    ],
+    [
+      "asap.work",
+      13
+    ],
+    [
+      "Collective Works",
+      13
+    ]
+  ],
+  "topSkills": [
+    [
+      "Data",
+      128
+    ],
+    [
+      "DevOps",
+      121
+    ],
+    [
+      "Java",
+      58
+    ],
+    [
+      "Full-stack",
+      54
+    ],
+    [
+      ".NET",
+      39
+    ],
+    [
+      "Angular",
+      31
+    ]
+  ],
+  "topPaid": [
+    {
+      "title": "Ingénieur Big Data - Dataops H/F",
+      "company": "Celad",
+      "min": 132000,
+      "max": 176000,
+      "url": "https://www.hellowork.com/fr-fr/emplois/85481909.html"
+    },
+    {
+      "title": "Data Engineer - Expert Dataiku - Paris H/F",
+      "company": "Talents Digital",
+      "min": 132000,
+      "max": 151008,
+      "url": "https://www.hellowork.com/fr-fr/emplois/84461304.html"
+    },
+    {
+      "title": "Chef de Projet Technique - Backup Cloud Azure - Gcp H/F",
+      "company": "Maestria",
+      "min": 118800,
+      "max": 140800,
+      "url": "https://www.hellowork.com/fr-fr/emplois/84529023.html"
+    }
+  ]
+}
