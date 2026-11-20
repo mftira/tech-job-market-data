@@ -1,0 +1,84 @@
+{
+  "niche": "germany",
+  "week": "2026-W47",
+  "days": 7,
+  "jobs": 448,
+  "withSalary": 448,
+  "salaryShare": 100,
+  "currency": "EUR",
+  "median": 62500,
+  "p25": 55500,
+  "p75": 72500,
+  "remoteShare": 86,
+  "topCompanies": [
+    [
+      "Amadeus Fire AG",
+      29
+    ],
+    [
+      "Rheinmetall Electronics GmbH",
+      9
+    ],
+    [
+      "SEW-EURODRIVE GmbH & Co KG",
+      9
+    ],
+    [
+      "PRODYNA SE",
+      6
+    ],
+    [
+      "meinestadt.de",
+      6
+    ]
+  ],
+  "topSkills": [
+    [
+      "Data",
+      76
+    ],
+    [
+      "DevOps",
+      72
+    ],
+    [
+      "Cloud",
+      43
+    ],
+    [
+      "ML / AI",
+      31
+    ],
+    [
+      "SAP",
+      21
+    ],
+    [
+      "Full-stack",
+      15
+    ]
+  ],
+  "topPaid": [
+    {
+      "title": "Staff Engineer: Ontology & Agent Orchestration (f/m/d)",
+      "company": "Alphora GmbH",
+      "min": 180000,
+      "max": 200000,
+      "url": "https://www.stepstone.de/stellenangebote--Staff-Engineer-Ontology-Agent-Orchestration-f-m-d-bundesweit-Home-Office-Alphora-GmbH--14631763-inline.html"
+    },
+    {
+      "title": "Senior Data Migration Engineer | Investment Finance | 80-100% (m/w/d)",
+      "company": "QPLIX GmbH",
+      "min": 100000,
+      "max": 150000,
+      "url": "https://www.stepstone.de/stellenangebote--Senior-Data-Migration-Engineer-Investment-Finance-80-100-m-w-d-Zuerich-QPLIX-GmbH--14250250-inline.html"
+    },
+    {
+      "title": "IT-Security Consultant sichere Software-Entwicklung (m/w/d)",
+      "company": "Amprion GmbH",
+      "min": 116000,
+      "max": 130000,
+      "url": "https://www.stepstone.de/stellenangebote--IT-Security-Consultant-sichere-Software-Entwicklung-m-w-d-Dortmund-Amprion-GmbH--14698979-inline.html"
+    }
+  ]
+}
