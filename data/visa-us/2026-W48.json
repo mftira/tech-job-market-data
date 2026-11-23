@@ -1,0 +1,84 @@
+{
+  "niche": "visa-us",
+  "week": "2026-W48",
+  "days": 7,
+  "jobs": 335,
+  "withSalary": 112,
+  "salaryShare": 33,
+  "currency": "USD",
+  "median": 124800,
+  "p25": 109200,
+  "p75": 145600,
+  "remoteShare": 33,
+  "topCompanies": [
+    [
+      "TechniPros, LLC",
+      18
+    ],
+    [
+      "QUANTUM TECHNOLOGIES LLC",
+      18
+    ],
+    [
+      "Trebecon LLC",
+      12
+    ],
+    [
+      "Digipulse Technologies, Inc",
+      11
+    ],
+    [
+      "QTech US Inc",
+      11
+    ]
+  ],
+  "topSkills": [
+    [
+      "ML / AI",
+      50
+    ],
+    [
+      "Data",
+      47
+    ],
+    [
+      "Java",
+      45
+    ],
+    [
+      ".NET",
+      25
+    ],
+    [
+      "Full-stack",
+      21
+    ],
+    [
+      "Cloud",
+      20
+    ]
+  ],
+  "topPaid": [
+    {
+      "title": "AI Data Engineer",
+      "company": "QUANTUM TECHNOLOGIES LLC",
+      "min": 166400,
+      "max": 208000,
+      "url": "https://www.dice.com/job-detail/5b6ef7b5-f3c2-4cac-bff7-dbdfdcbf684b"
+    },
+    {
+      "title": "Principal Machine Learning Engineer, Artificial Intelligence (AI) Required, Work From Home - G",
+      "company": "Next Step Systems",
+      "min": 170000,
+      "max": 200000,
+      "url": "https://www.dice.com/job-detail/87c552a7-5a12-425f-a4f8-70b7ecb0fb30"
+    },
+    {
+      "title": "Data & ML Engineer (Azure)",
+      "company": "QUANTUM TECHNOLOGIES LLC",
+      "min": 180960,
+      "max": 197600,
+      "url": "https://www.dice.com/job-detail/166d46ad-035d-4de6-8e52-20ea552499a3"
+    }
+  ]
+}
