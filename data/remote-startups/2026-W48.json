@@ -1,0 +1,80 @@
+{
+  "niche": "remote-startups",
+  "week": "2026-W48",
+  "days": 7,
+  "jobs": 35,
+  "withSalary": 35,
+  "salaryShare": 100,
+  "currency": "USD",
+  "median": 175000,
+  "p25": 150000,
+  "p75": 192750,
+  "remoteShare": 100,
+  "topCompanies": [
+    [
+      "Rula",
+      2
+    ],
+    [
+      "Klarify",
+      2
+    ],
+    [
+      "Rima",
+      2
+    ],
+    [
+      "Monte Carlo",
+      2
+    ],
+    [
+      "Standard Bots",
+      2
+    ]
+  ],
+  "topSkills": [
+    [
+      "Product",
+      13
+    ],
+    [
+      "Full-stack",
+      3
+    ],
+    [
+      "Backend",
+      3
+    ],
+    [
+      "Data",
+      3
+    ],
+    [
+      "ML / AI",
+      2
+    ]
+  ],
+  "topPaid": [
+    {
+      "title": "Product Manager, Billing",
+      "company": "Figma",
+      "min": 169000,
+      "max": 303000,
+      "url": "https://wellfound.com/jobs/5131718-product-manager-billing"
+    },
+    {
+      "title": "Staff Product Designer",
+      "company": "Eight Sleep",
+      "min": 250000,
+      "max": 280000,
+      "url": "https://wellfound.com/jobs/4150306-staff-product-designer"
+    },
+    {
+      "title": "Senior Machine Learning Engineer - Search",
+      "company": "Nextdoor",
+      "min": 195000,
+      "max": 276000,
+      "url": "https://wellfound.com/jobs/5101893-senior-machine-learning-engineer-search"
+    }
+  ]
+}
