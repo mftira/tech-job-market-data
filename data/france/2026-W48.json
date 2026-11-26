@@ -1,0 +1,84 @@
+{
+  "niche": "france",
+  "week": "2026-W48",
+  "days": 7,
+  "jobs": 723,
+  "withSalary": 723,
+  "salaryShare": 100,
+  "currency": "EUR",
+  "median": 45000,
+  "p25": 40000,
+  "p75": 52500,
+  "remoteShare": 48,
+  "topCompanies": [
+    [
+      "Externatic",
+      31
+    ],
+    [
+      "Celad",
+      21
+    ],
+    [
+      "Kaiman Services",
+      13
+    ],
+    [
+      "Groupe SII",
+      12
+    ],
+    [
+      "Astek",
+      11
+    ]
+  ],
+  "topSkills": [
+    [
+      "Data",
+      122
+    ],
+    [
+      "DevOps",
+      111
+    ],
+    [
+      "Java",
+      58
+    ],
+    [
+      "Full-stack",
+      53
+    ],
+    [
+      ".NET",
+      41
+    ],
+    [
+      "Cloud",
+      31
+    ]
+  ],
+  "topPaid": [
+    {
+      "title": "Développeur Servicenow - Luxembourg H/F",
+      "company": "Le Recrut'Heure",
+      "min": 121000,
+      "max": 154000,
+      "url": "https://www.hellowork.com/fr-fr/emplois/84663440.html"
+    },
+    {
+      "title": "Développeur·se Sailpoint Identityiq Expert H/F",
+      "company": "Metaline",
+      "min": 114400,
+      "max": 138600,
+      "url": "https://www.hellowork.com/fr-fr/emplois/85752631.html"
+    },
+    {
+      "title": "Ingénieur Cloud Azure - DevOps H/F",
+      "company": "Artemys",
+      "min": 121000,
+      "max": 132000,
+      "url": "https://www.hellowork.com/fr-fr/emplois/84611959.html"
+    }
+  ]
+}
