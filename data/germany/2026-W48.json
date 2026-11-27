@@ -1,0 +1,84 @@
+{
+  "niche": "germany",
+  "week": "2026-W48",
+  "days": 7,
+  "jobs": 118,
+  "withSalary": 118,
+  "salaryShare": 100,
+  "currency": "EUR",
+  "median": 59500,
+  "p25": 54625,
+  "p75": 66786,
+  "remoteShare": 0,
+  "topCompanies": [
+    [
+      "Quantum-Systems GmbH",
+      6
+    ],
+    [
+      "Ehrhardt + Partner Group",
+      3
+    ],
+    [
+      "BIZ Factory GmbH",
+      3
+    ],
+    [
+      "adesso SE",
+      3
+    ],
+    [
+      "Bank11 für Privatkunden und Handel GmbH",
+      3
+    ]
+  ],
+  "topSkills": [
+    [
+      "ML / AI",
+      18
+    ],
+    [
+      "DevOps",
+      11
+    ],
+    [
+      "Data",
+      9
+    ],
+    [
+      "Cloud",
+      7
+    ],
+    [
+      "Full-stack",
+      6
+    ],
+    [
+      "QA / Test",
+      4
+    ]
+  ],
+  "topPaid": [
+    {
+      "title": "Head of Kubernetes / OpenStack (m/w/d)",
+      "company": "plusserver gmbh",
+      "min": 104000,
+      "max": 131000,
+      "url": "https://www.stepstone.de/stellenangebote--Head-of-Kubernetes-OpenStack-m-w-d-Koeln-Porz-plusserver-gmbh--14534091-inline.html"
+    },
+    {
+      "title": "ERP-Anwendungsentwickler/in / SQL Developer (m/w/d)",
+      "company": "Randstad Digital Germany AG",
+      "min": 60000,
+      "max": 120000,
+      "url": "https://www.stepstone.de/stellenangebote--ERP-Anwendungsentwickler-in-SQL-Developer-m-w-d-Dietzenbach-Randstad-Digital-Germany-AG--14787661-inline.html"
+    },
+    {
+      "title": "People Lead Software Development Underwriting",
+      "company": "HDI AG",
+      "min": 92000,
+      "max": 118000,
+      "url": "https://www.stepstone.de/stellenangebote--People-Lead-Software-Development-Underwriting-Hannover-HDI-AG--14786600-inline.html"
+    }
+  ]
+}
